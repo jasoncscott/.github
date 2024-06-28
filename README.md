@@ -6,7 +6,7 @@
   </kbd>
 </p>
 
-This repo is a special GitHub repo to contain default files and templates for all other repositories that do not have their own copies.
+This repo is a special [GitHub repo](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) to contain default files and templates for all other repositories that do not have their own copies.
 
 <table>
   <tbody>
